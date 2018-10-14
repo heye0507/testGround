@@ -9,7 +9,7 @@ import sys
 url_search_base = 'http://songsearch.kugou.com/song_search_v2?callback=jQuery112406335936274624496_1539417511214&keyword='
 hash_url = 'http://www.kugou.com/yy/index.php?r=play/getdata&hash='
 
-
+#感谢csdn大神提供的hash url地址
 
 
 keyword = input("歌曲名: ")
